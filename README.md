@@ -10,4 +10,5 @@ of the products that will soon be added to the inventory of DiversDen, allowing 
 and prepare in advance for them by giving future knowledge.
 
 crawldiversden.py does this by checking various possible image names based on previously used image name formats, which accounts for date,
-by LiveAquaria and attempting to see if a image is valid or not.
+by LiveAquaria and attempting to see if a image is valid or not. This works because the website uploads future products to public access
+before the product is even available to find on their website.
